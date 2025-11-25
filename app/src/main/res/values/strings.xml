@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ACM43Project</string>
+    <string name="app_version">1.0</string>
+    <string name="dest1">list</string>
+    <string name="dest2">details</string>
+    <string name="title_activity_second">SecondActivity</string>
+
 </resources>
