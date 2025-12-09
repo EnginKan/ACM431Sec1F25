@@ -40,12 +40,6 @@ class MainActivity : ComponentActivity() {
 
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
-                        onClick = () ->
-                            {
-                                val intent = Intent(this, SecondActivity::class.java)
-                                startActivity(intent)
-
-                        }
                     )
                 }
             }
